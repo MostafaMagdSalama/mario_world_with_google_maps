@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+html{
+    box-sizing: border-box;
+    font-size: 100%;
+}
+* , *::after , *::before{
+box-sizing: inherit;
+}
+body{
+    margin: 0;
+    padding: 0; 
+    background-color: black;
+    color:white;
+}
+#map {
+    height: 60vh;
+}
+h1{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 2rem;
+    text-align: center;
+    padding: 0 3rem;
+}
+.gm-style .gm-style-iw-c{
+    color:black;
+}
